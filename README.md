@@ -5,10 +5,10 @@ The Privacy Policy, Terms of Use and data-deletion page for the Android app
 
 | Page | Address once Pages is on |
 |---|---|
-| Home | https://mofaizan7960.github.io/finsip-legal/ |
-| Privacy Policy | https://mofaizan7960.github.io/finsip-legal/privacy/ |
-| Terms of Use | https://mofaizan7960.github.io/finsip-legal/terms/ |
-| Data deletion | https://mofaizan7960.github.io/finsip-legal/delete-account/ |
+| Home | https://mofaizan7960.github.io/FinSip-Legal/ |
+| Privacy Policy | https://mofaizan7960.github.io/FinSip-Legal/privacy/ |
+| Terms of Use | https://mofaizan7960.github.io/FinSip-Legal/terms/ |
+| Data deletion | https://mofaizan7960.github.io/FinSip-Legal/delete-account/ |
 
 Plain HTML and CSS. No JavaScript, no external fonts, no analytics, no cookies.
 
@@ -16,6 +16,6 @@ Plain HTML and CSS. No JavaScript, no external fonts, no analytics, no cookies.
 
 `app-ads.txt.example` is a template. When you have an AdMob publisher ID,
 replace the placeholder in it, rename the file to `app-ads.txt`, and it will be
-served at `https://mofaizan7960.github.io/finsip-legal/app-ads.txt`.
+served at `https://mofaizan7960.github.io/FinSip-Legal/app-ads.txt`.
 
 Contact: finsip7960@gmail.com
