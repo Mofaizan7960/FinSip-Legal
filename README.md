@@ -18,4 +18,4 @@ Plain HTML and CSS. No JavaScript, no external fonts, no analytics, no cookies.
 replace the placeholder in it, rename the file to `app-ads.txt`, and it will be
 served at `https://mofaizan7960.github.io/FinSip-Legal/app-ads.txt`.
 
-Contact: finsip7960@gmail.com
+Contact: ronyrock7960@gmail.com
